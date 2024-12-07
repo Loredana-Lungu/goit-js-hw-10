@@ -2,7 +2,11 @@
   "name": "goit-js-hw-10",
   "version": "2.0.0",
   "description": "",
+<<<<<<< HEAD
   "homepage": "https://Loredana-Lungu.github.io/goit-js-hw-10",
+=======
+  "homepage": "hhttps://Loredana-Lungu.github.io/goit-js-hw-10",
+>>>>>>> 0863e36e35fa1d500e3e7303e513d9a79b244e36
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-10/",
@@ -14,7 +18,11 @@
     "url": "git+https://github.com/Loredana-Lungu/goit-js-hw-10.git"
   },
   "keywords": [],
+<<<<<<< HEAD
   "author": "Loredana Lungu <lunguioanaloredana@gmail.com>",
+=======
+  "author": "https://github.com/Loredana-Lungu/goit-js-hw-8.git",
+>>>>>>> 0863e36e35fa1d500e3e7303e513d9a79b244e36
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Loredana-Lungu/goit-js-hw-10/issues"
